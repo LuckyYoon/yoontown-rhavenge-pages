@@ -1,8 +1,8 @@
-# ⚔ YOONTOWN RHAVENGE
+# YOONTOWN RHAVENGE
 
-> **⚠ WARNING:** This game contains flashing lights which may not be suitable for photosensitive epilepsy.
+> **WARNING:** This game contains flashing lights which may not be suitable for photosensitive epilepsy.
 
-**[▶ Play Now (Installation)](#installation)** · **[⬇ Download](#download)** · **[★ GitHub](https://github.com/olincollege/yoontown-rhavenge)**
+**[Play Now (Installation)](#installation)** · **[Download](#download)** · **[GitHub](https://github.com/olincollege/yoontown-rhavenge)**
 
 ---
 
