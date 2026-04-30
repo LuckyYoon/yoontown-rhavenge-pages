@@ -12,8 +12,6 @@ The core goal is pure survival: dodge an escalating storm of projectiles, find o
 
 Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-community/pygame-ce) community library.
 
-
-
 ## How to Play
 
 | Input | Action |
@@ -23,8 +21,6 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 
 > The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended..
 
-
-
 ## Unique Features
 
 - **Two-Phase Boss Fight** - When the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
@@ -33,8 +29,6 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 - **Bullet Hell Patterns** - Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
 - **Simple Controls** - WASD and Spacebar. Zero barrier to entry; the challenge comes entirely from the game.
 - **Clean Architecture** - Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py`inde for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
-
-
 
 ## Screenshots
 
@@ -49,10 +43,6 @@ The Rhavenger opens the fight with its initial set of attack patterns. Learn the
 ![The Rhavenger of Yoontown in Phase 2](https://github.com/olincollege/yoontown-rhavenge/raw/main/images/phase-2.png)
 
 Deal enough damage and the Rhavenger transforms, unlocking faster, denser projectile patterns that demand even sharper reflexes.
-
-
-
-
 
 ## Installation
 
@@ -90,8 +80,6 @@ python yoontown_rhavenge.py
 
 For full details, see the [README on GitHub](https://github.com/olincollege/yoontown-rhavenge/blob/main/README.md).
 
----
-
 ## Download
 
 | Option | Link |
@@ -101,8 +89,6 @@ For full details, see the [README on GitHub](https://github.com/olincollege/yoon
 | Browse source | [github.com/olincollege/yoontown-rhavenge](https://github.com/olincollege/yoontown-rhavenge) |
 | Full README | [README.md](https://github.com/olincollege/yoontown-rhavenge/blob/main/README.md) |
 
-
-
 ## The Team
 
 The developers of this game are first year students at Olin College of Engineering in Needham, MA.
@@ -110,8 +96,6 @@ The developers of this game are first year students at Olin College of Engineeri
 Matthew Townsend \
 Benjamin Rha \
 Justin Yoon
-
-
 
 ## Attribution
 
