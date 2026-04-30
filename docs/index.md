@@ -4,8 +4,6 @@
 
 **[Play Now (Installation)](#installation)** · **[Download](#download)** · **[GitHub](https://github.com/olincollege/yoontown-rhavenge)**
 
----
-
 ## About the Game
 
 Yoontown Rhavenge is a top-down **bullet hell** boss-rush game inspired by the manic shooter genre. You play as **Gilbert**, an unlikely hero armed with nothing but a slingshot, who must face the fearsome **Rhavenger of Yoontown** — a multi-phase boss that grows more ruthless with every hit it takes.
