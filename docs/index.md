@@ -99,7 +99,7 @@ The Rhavenger opens the fight with its initial set of attack patterns. Learn the
 Deal enough damage and the Rhavenger transforms, unlocking faster, denser projectile patterns that demand even sharper reflexes.
 
 
-<video src="ytr.mp4" control width="100%"></video>
+<video src="ytr.mp4" controls width="100%"></video>
 
 ## Attribution
 
