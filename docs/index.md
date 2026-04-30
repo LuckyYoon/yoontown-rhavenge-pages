@@ -27,7 +27,7 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 
 ## Unique Features
 
-- **Two-Phase Boss Fight** - At a health threshold the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
+- **Two-Phase Boss Fight** - When the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
 - **Original Soundtrack** - Music for the game was composed from scratch specifically for this game.
 - **Hand-Crafted Sprites** - Every sprite and animation was created exclusively for Yoontown Rhavenge all original pixel art.
 - **Bullet Hell Patterns** - Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
@@ -101,17 +101,17 @@ For full details, see the [README on GitHub](https://github.com/olincollege/yoon
 | Browse source | [github.com/olincollege/yoontown-rhavenge](https://github.com/olincollege/yoontown-rhavenge) |
 | Full README | [README.md](https://github.com/olincollege/yoontown-rhavenge/blob/main/README.md) |
 
----
+
 
 ## The Team
 
-The developers of this game attend Olin College of Engineering in Needham, MA.
+The developers of this game are first year students at Olin College of Engineering in Needham, MA.
 
-Matthew Townsend
-Benjamin Rha
+Matthew Townsend \
+Benjamin Rha \
 Justin Yoon
 
----
+
 
 ## Attribution
 
