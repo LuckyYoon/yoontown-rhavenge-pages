@@ -99,12 +99,12 @@ Justin Yoon
 
 ## Attribution
 
-All game content — sprites, audio, and levels — was created from scratch. The following open-source tools and resources made the project possible:
+The following open-source tools and resources made the project possible:
 
-- **[Python 3.14](https://www.python.org)** — The programming language Yoontown Rhavenge is written in.
-- **[pygame-ce (Community Edition)](https://github.com/pygame-community/pygame-ce)** — The multimedia library handling graphics, input, and audio.
-- **[Bullet Hell genre](https://en.wikipedia.org/wiki/Bullet_hell)** — The manic shooter subgenre that inspired the game's design and attack patterns.
-- **[Olin College of Engineering](https://www.olin.edu)** — Developed as part of the Software Design course curriculum.
+- **[Python 3.14](https://www.python.org)** - The programming language Yoontown Rhavenge is written in.
+- **[pygame-ce](https://github.com/pygame-community/pygame-ce)** - The multimedia library handling graphics, input, and audio.
+- **[Bullet Hell genre](https://en.wikipedia.org/wiki/Bullet_hell)** - The manic shooter subgenre that inspired the game's design and attack patterns.
+- **[Olin College of Engineering](https://www.olin.edu)** - Developed as part of the Software Design course curriculum.
 
 ---
 
