@@ -19,7 +19,7 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 | `W` `A` `S` `D` | Move Gilbert in 2D space |
 | `Space` | Fire Gilbert's slingshot |
 
-> The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended..
+> The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended.
 
 ## Unique Features
 
