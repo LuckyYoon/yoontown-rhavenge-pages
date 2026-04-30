@@ -19,7 +19,7 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 | `W` `A` `S` `D` | Move Gilbert in 2D space |
 | `Space` | Fire Gilbert's slingshot |
 
-> The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended.
+> The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended..
 
 ## Unique Features
 
@@ -98,9 +98,8 @@ The Rhavenger opens the fight with its initial set of attack patterns. Learn the
 
 Deal enough damage and the Rhavenger transforms, unlocking faster, denser projectile patterns that demand even sharper reflexes.
 
-## Game Explanation Video
 
-![](ytr.mp4)
+<video src="ytr.mp4" control width="100%"></video>
 
 ## Attribution
 
