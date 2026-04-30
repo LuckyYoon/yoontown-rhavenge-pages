@@ -6,9 +6,9 @@
 
 ## About the Game
 
-Yoontown Rhavenge is a top-down **bullet hell** boss-rush game inspired by the manic shooter genre. You play as **Gilbert**, an unlikely hero armed with nothing but a slingshot, firing his severe case of lice that are on fire. You must face the fearsome **Rhavenger of Yoontown** — a multi-phase boss that grows more ruthless with every hit it takes.
+Yoontown Rhavenge is a top-down **bullet hell** game inspired by the manic shooter genre. You play as **Gilbert**, a dead beat dad and an unlikely hero armed with nothing but a slingshot, firing his severe case of head lice that are on fire. You must face the fearsome **Rhavenger of Yoontown**, a multi-phase boss that grows more ruthless with every hit it takes, to claim the money reward to pay for your child's tuition.
 
-The core goal is pure survival: dodge an escalating storm of projectiles, find openings to fire back, and outlast the boss through both of its distinct phases. Every sprite, soundtrack, and attack pattern was crafted from scratch for this game.
+The core goal is survival: dodge an escalating storm of projectiles, find openings to fire back, and outlast the boss through both of its distinct phases. Every sprite, soundtrack, and attack pattern was crafted from scratch for this game.
 
 Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-community/pygame-ce) community library.
 
@@ -24,24 +24,12 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 ## Unique Features
 
 - **Two-Phase Boss Fight** - When the Rhavenger's health completey depletes, it enters Phase 2, changing its appearance, regaining health, and intensifying its attacks.
-- **Original Soundtrack** - Music for the game was composed by Matthew Townsend and made specifically for this game.
+- **Original Soundtrack** - The music for this game was composed by Matthew Townsend and made specifically for this game.
 - **Hand-Crafted Sprites** - Every sprite and animation are all original pixel art, and was created exclusively for Yoontown Rhavenge.
 - **Simple Controls** - This game only uses WASD and Spacebar meaning it's simple to learn, making the challenge come entirely from the game.
 
 
-## Screenshots
 
-### Phase 1
-
-![The Rhavenger of Yoontown in Phase 1](https://github.com/olincollege/yoontown-rhavenge/raw/main/images/phase-1.png)
-
-The Rhavenger opens the fight with its initial set of attack patterns. Learn the rhythm — and stay alive.
-
-### Phase 2
-
-![The Rhavenger of Yoontown in Phase 2](https://github.com/olincollege/yoontown-rhavenge/raw/main/images/phase-2.png)
-
-Deal enough damage and the Rhavenger transforms, unlocking faster, denser projectile patterns that demand even sharper reflexes.
 
 ## Installation
 
@@ -95,6 +83,24 @@ The developers of this game are first year students at Olin College of Engineeri
 Matthew Townsend \
 Benjamin Rha \
 Justin Yoon
+
+## Screenshots
+
+### Phase 1
+
+![The Rhavenger of Yoontown in Phase 1](https://github.com/olincollege/yoontown-rhavenge/raw/main/images/phase-1.png)
+
+The Rhavenger opens the fight with its initial set of attack patterns. Learn the rhythm — and stay alive.
+
+### Phase 2
+
+![The Rhavenger of Yoontown in Phase 2](https://github.com/olincollege/yoontown-rhavenge/raw/main/images/phase-2.png)
+
+Deal enough damage and the Rhavenger transforms, unlocking faster, denser projectile patterns that demand even sharper reflexes.
+
+## Game Explanation Video
+
+![](ytr.mp4)
 
 ## Attribution
 
