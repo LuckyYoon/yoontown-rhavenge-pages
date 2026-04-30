@@ -23,12 +23,11 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 
 ## Unique Features
 
-- **Two-Phase Boss Fight** - When the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
-- **Original Soundtrack** - Music for the game was composed from scratch specifically for this game.
-- **Hand-Crafted Sprites** - Every sprite and animation was created exclusively for Yoontown Rhavenge all original pixel art.
-- **Bullet Hell Patterns** - Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
-- **Simple Controls** - WASD and Spacebar. Zero barrier to entry; the challenge comes entirely from the game.
-- **Clean Architecture** - Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py`inde for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
+- **Two-Phase Boss Fight** - When the Rhavenger's health completey depletes, it enters Phase 2, changing its appearance, regaining health, and intensifying its attacks.
+- **Original Soundtrack** - Music for the game was composed by Matthew Townsend and made specifically for this game.
+- **Hand-Crafted Sprites** - Every sprite and animation are all original pixel art, and was created exclusively for Yoontown Rhavenge.
+- **Simple Controls** - This game only uses WASD and Spacebar meaning it's simple to learn, making the challenge come entirely from the game.
+
 
 ## Screenshots
 
