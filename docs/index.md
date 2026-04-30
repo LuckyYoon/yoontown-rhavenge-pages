@@ -39,18 +39,18 @@ Deal enough damage and the Rhavenger transforms, unlocking faster, denser projec
 | `W` `A` `S` `D` | Move Gilbert in 2D space |
 | `Space` | Fire Gilbert's slingshot |
 
-> Audio cues are woven into gameplay. Headphones are recommended for the full experience.
+> The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended..
 
 ---
 
 ## Unique Features
 
-- **Two-Phase Boss Fight** — At a health threshold the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
-- **Original Soundtrack** — All music and sound effects were composed from scratch specifically for this game. No stock audio.
-- **Hand-Crafted Sprites** — Every sprite and animation was created exclusively for Yoontown Rhavenge — all original pixel art.
-- **Bullet Hell Patterns** — Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
-- **Simple Controls** — WASD and Spacebar. Zero barrier to entry; the challenge comes entirely from the game.
-- **Clean Architecture** — Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py` for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
+- **Two-Phase Boss Fight** - At a health threshold the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
+- **Original Soundtrack** - Music for the game was composed from scratch specifically for this game.
+- **Hand-Crafted Sprites** - Every sprite and animation was created exclusively for Yoontown Rhavenge all original pixel art.
+- **Bullet Hell Patterns** - Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
+- **Simple Controls** - WASD and Spacebar. Zero barrier to entry; the challenge comes entirely from the game.
+- **Clean Architecture** - Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py` for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
 
 ---
 
@@ -122,4 +122,4 @@ All game content — sprites, audio, and levels — was created from scratch. Th
 
 ---
 
-*Made at Olin College of Engineering · Python 3.14 + pygame-ce*
+*Made at Olin College of Engineering*
