@@ -6,13 +6,35 @@
 
 ## About the Game
 
-Yoontown Rhavenge is a top-down **bullet hell** boss-rush game inspired by the manic shooter genre. You play as **Gilbert**, an unlikely hero armed with nothing but a slingshot, who must face the fearsome **Rhavenger of Yoontown** — a multi-phase boss that grows more ruthless with every hit it takes.
+Yoontown Rhavenge is a top-down **bullet hell** boss-rush game inspired by the manic shooter genre. You play as **Gilbert**, an unlikely hero armed with nothing but a slingshot, firing his severe case of lice that are on fire. You must face the fearsome **Rhavenger of Yoontown** — a multi-phase boss that grows more ruthless with every hit it takes.
 
 The core goal is pure survival: dodge an escalating storm of projectiles, find openings to fire back, and outlast the boss through both of its distinct phases. Every sprite, soundtrack, and attack pattern was crafted from scratch for this game.
 
 Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-community/pygame-ce) community library.
 
----
+
+
+## How to Play
+
+| Input | Action |
+|---|---|
+| `W` `A` `S` `D` | Move Gilbert in 2D space |
+| `Space` | Fire Gilbert's slingshot |
+
+> The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended..
+
+
+
+## Unique Features
+
+- **Two-Phase Boss Fight** - At a health threshold the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
+- **Original Soundtrack** - Music for the game was composed from scratch specifically for this game.
+- **Hand-Crafted Sprites** - Every sprite and animation was created exclusively for Yoontown Rhavenge all original pixel art.
+- **Bullet Hell Patterns** - Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
+- **Simple Controls** - WASD and Spacebar. Zero barrier to entry; the challenge comes entirely from the game.
+- **Clean Architecture** - Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py` for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
+
+
 
 ## Screenshots
 
@@ -28,29 +50,9 @@ The Rhavenger opens the fight with its initial set of attack patterns. Learn the
 
 Deal enough damage and the Rhavenger transforms, unlocking faster, denser projectile patterns that demand even sharper reflexes.
 
----
 
-## Controls
 
-| Input | Action |
-|---|---|
-| `W` `A` `S` `D` | Move Gilbert in 2D space |
-| `Space` | Fire Gilbert's slingshot |
 
-> The game involves certain audio cues which may effect the gameplay experience. The use of audio devices such as headphones is recommended..
-
----
-
-## Unique Features
-
-- **Two-Phase Boss Fight** - At a health threshold the Rhavenger transforms entirely, introducing new attack patterns and escalating difficulty.
-- **Original Soundtrack** - Music for the game was composed from scratch specifically for this game.
-- **Hand-Crafted Sprites** - Every sprite and animation was created exclusively for Yoontown Rhavenge all original pixel art.
-- **Bullet Hell Patterns** - Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
-- **Simple Controls** - WASD and Spacebar. Zero barrier to entry; the challenge comes entirely from the game.
-- **Clean Architecture** - Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py` for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
-
----
 
 ## Installation
 
@@ -103,9 +105,11 @@ For full details, see the [README on GitHub](https://github.com/olincollege/yoon
 
 ## The Team
 
-Yoontown Rhavenge was created as a software design project at [Olin College of Engineering](https://www.olin.edu), a small, hands-on engineering school in Needham, Massachusetts.
+The developers of this game attend Olin College of Engineering in Needham, MA.
 
-Contributors can be found on the [GitHub contributors page](https://github.com/olincollege/yoontown-rhavenge/graphs/contributors). All sprites, audio, and code were built from scratch by the project team.
+Matthew Townsend
+Benjamin Rha
+Justin Yoon
 
 ---
 
