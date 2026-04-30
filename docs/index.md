@@ -32,7 +32,7 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 - **Hand-Crafted Sprites** - Every sprite and animation was created exclusively for Yoontown Rhavenge all original pixel art.
 - **Bullet Hell Patterns** - Inspired by the manic shooter genre, the boss fires complex, patterned projectile arrangements that reward reading and memorization.
 - **Simple Controls** - WASD and Spacebar. Zero barrier to entry; the challenge comes entirely from the game.
-- **Clean Architecture** - Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py` for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
+- **Clean Architecture** - Code is split across focused modules: `ytr_classes.py` for game objects, `ytr_config.py`inde for tunable constants, and a full unit-test suite in `ytr_unittests.py`.
 
 
 
