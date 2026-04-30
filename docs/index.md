@@ -35,18 +35,18 @@ Built in **Python 3.14** using the [pygame-ce](https://github.com/pygame-communi
 
 Running **Python 3.14** is recommended. The game should work on earlier Python 3 versions, but switch to 3.14 if you run into any issues.
 
-**Step 1 — Install Python 3.14**
+**Step 1 - Install Python 3.14**
 
 Download from the official Python site:
 [https://www.python.org/downloads/release/python-3144/](https://www.python.org/downloads/release/python-3144/)
 
-**Step 2 — Clone the repository**
+**Step 2 - Clone the repository**
 
 ```bash
 git clone https://github.com/olincollege/yoontown-rhavenge
 ```
 
-**Step 3 — Install pygame-ce**
+**Step 3 - Install pygame-ce**
 
 ```bash
 pip install pygame-ce
@@ -58,7 +58,7 @@ On Windows you may need to use:
 py -m pip install pygame-ce
 ```
 
-**Step 4 — Run the game**
+**Step 4 - Run the game**
 
 ```bash
 cd yoontown-rhavenge
@@ -90,7 +90,7 @@ Justin Yoon
 
 ![The Rhavenger of Yoontown in Phase 1](https://github.com/olincollege/yoontown-rhavenge/raw/main/images/phase-1.png)
 
-The Rhavenger opens the fight with its initial set of attack patterns. Learn the rhythm — and stay alive.
+The Rhavenger opens the fight with its initial set of attack patterns. Learn its patterns and stay alive.
 
 ### Phase 2
 
